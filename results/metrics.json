@@ -1,0 +1,11 @@
+{
+    "best_model": "XGBoost",
+    "auc_roc": 0.9750613530465808,
+    "f1_score": 0.7682539682539683,
+    "test_set_size": 85443,
+    "fraud_cases_in_test": 148,
+    "true_positives": 121,
+    "false_positives": 46,
+    "false_negatives": 27,
+    "true_negatives": 85249
+}
